@@ -1,0 +1,1 @@
+console.log('Just to show the javascript file is working!')
